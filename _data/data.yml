@@ -8,20 +8,19 @@ sidebar:
 
     # Profile information
     name: Sepehr Sharifi
-    tagline: PhD Researcher
-    location: University of Ottawa
+    tagline: PhD Researcher at University of Ottawa
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: sshar190@uottawa.ca
+    phone: 
+    website: SepShr.github.io #do not add http://
+    linkedin: sepehrsharifi
+    github: SepShr
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@sepehrshr'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,9 +32,6 @@ sidebar:
       - idiom: French
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
-
     interests:
       - item: Climbing
         link:
@@ -43,8 +39,6 @@ sidebar:
       - item: Snowboarding
         link:
 
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
@@ -56,9 +50,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in System Science Science
+      university: University of Ottawa
+      time: 2018 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -67,9 +61,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Aerospace Engineering
+      university: Sharif University of Technology
+      time: 2012 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
