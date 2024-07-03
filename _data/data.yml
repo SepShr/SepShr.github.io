@@ -49,15 +49,17 @@ sidebar:
     #   - item: Cooking
     #     link:
 
-# career-profile:
-#     title: About Me
-#     summary: |
-#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#       adipiscing elit. You can [download this free resume/CV template here]().
-#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#       Donec quam felis, ultricies nec, pellentesque eu.
-#       Second paragraph if required.
+career-profile:
+    title: About Me
+    summary: |
+      I am a PhD candidate at [Nanda Lab](https://www.nanda-lab.ca/team),
+      University of Ottawa under the supervision of [Prof. Lionel Briand](https://www.lbriand.info/).
+      My main research interests include all stages of system engineering of complex AI-enabled systems
+      including robots, autonomous vehicles, and cyberphysical systems. This encompasses system design and modeling,
+      requirements engineering, quality assurance, testing, validation, and runtime monitoring.
+      During my PhD, I have developed novel methods for automated simulation-driven testing and monitoring.
+      These methods leverage a variety of metaheuristics and machine learning techniques, and have been successfully applied to real-world systems in autonomous driving and aviation.
+      
 education:
     - degree: PhD in Digital Transformation and Innovation
 #               (Focus on ML System Safety Engineering)
@@ -68,7 +70,7 @@ education:
       university: University of Ottawa
       time: 2018 - 2020
       details: |
-                **Thesis:** [Symboleo: A Formal Specification of Legal Contracts]("https://ruor.uottawa.ca/bitstream/10393/40866/3/Sharifi_Seyed_Sepehr_2020_thesis.pdf")
+                **Thesis:** [Symboleo: A Formal Specification of Legal Contracts](https://ruor.uottawa.ca/bitstream/10393/40866/3/Sharifi_Seyed_Sepehr_2020_thesis.pdf)
       
     - degree: BSc in Aerospace Engineering
       university: Sharif University of Technology
@@ -82,9 +84,24 @@ education:
       #     - Bullet point
       #     - Bullet point
 experiences:
-    - role: PhD Researcher
-      time: Sept 2020 - Present
-      company: Nanda Lab, University of Ottawa, Ottawa
+    # - role: PhD Research Intern
+    #   time: May 2021 - Feb 2024
+    #   company: Auxon Technologies, Portland OR, USA
+    #   # details: |
+    #   #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+    #   #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    #   #   Cum sociis natoque penatibus et magnis dis parturient montes,
+    #   #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+    #   #   pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+    #   #   enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+    #   #   error sit voluptatem accusantium doloremque laudantium, totam rem
+    #   #   aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+    #   #   architecto beatae vitae dicta sunt explicabo.
+    #   #     - Bullet point
+    #   #     - Bullet point
+    - role: PhD Research Intern
+      time: May 2021 - Feb 2024
+      company: Auxon Technologies, Portland OR, USA
       # details: |
       #   Describe your role here lorem ipsum dolor sit amet, consectetuer
       #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -108,22 +125,22 @@ experiences:
       #   pellentesque eu, pretium quis, sem.
       #     - Bullet point
       #     - Bullet point
-    - role: MSc Student
-      time: Jan 2018 - Aug 2020
-      company: CSM Lab, University of Ottawa, Ottawa
-      # details: |
-      #   Describe your role here lorem ipsum dolor sit amet, consectetuer
-      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      #   Cum sociis natoque penatibus et magnis dis parturient montes,
-      #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      #   pellentesque eu, pretium quis, sem.
-      #     - Bullet point
-      #     - Bullet point
+    # - role: MSc Student
+    #   time: Jan 2018 - Aug 2020
+    #   company: CSM Lab, University of Ottawa, Ottawa
+    #   # details: |
+    #   #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+    #   #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    #   #   Cum sociis natoque penatibus et magnis dis parturient montes,
+    #   #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+    #   #   pellentesque eu, pretium quis, sem.
+    #   #     - Bullet point
+    #   #     - Bullet point
 projects:
     title: Research
     intro: >
       My research focuses on making robots and cyberphysical systems safer.
-      Soecifically, I am interested in Machine Learning (ML) components and how
+      Specifically, I am interested in Machine Learning (ML) components and how
       they impact the safety of the system. To that end, I have developed an
       effective and efficient tool to identify the hazard boundary of ML components
       via scalable parallel simulations. Furthermore, I am developing methods and
@@ -161,10 +178,15 @@ publications:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
+      - title: "System Safety Monitoring of Learned Components Using Temporal Metric Forecasting"
+        authors: Sepehr Sharifi, Andrea Stocco, Lionel C. Briand
+        link: "https://arxiv.org/abs/2405.13254"
+        conference: "ArXiv Preprints"
+
       - title: "Identifying the Hazard Boundary of ML-enabled Autonomous Systems Using Cooperative Co-Evolutionary Search"
         authors: Sepehr Sharifi, Donghwan Shin, Lionel C. Briand, Nathan Aschbacher
-        link: "https://arxiv.org/abs/2301.13807"
-        conference: "ArXiv Preprints"
+        link: "https://ieeexplore.ieee.org/abstract/document/10311084"
+        conference: "Transactions on Software Engineering, vol. 49, no. 12, pp. 5120-5138, 2023"
         
       - title: "Specification and analysis of legal contracts with Symboleo"
         authors: Alireza Parvizimosaed, Sepehr Sharifi, Daniel Amyot, Luigi Logrippo, Marco Roveri, Aidin Rasti, Ali Roudak, John Mylopoulos
