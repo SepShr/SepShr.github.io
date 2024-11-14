@@ -84,24 +84,24 @@ education:
       #     - Bullet point
       #     - Bullet point
 experiences:
-    # - role: PhD Research Intern
-    #   time: May 2021 - Feb 2024
-    #   company: Auxon Technologies, Portland OR, USA
-    #   # details: |
-    #   #   Describe your role here lorem ipsum dolor sit amet, consectetuer
-    #   #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-    #   #   Cum sociis natoque penatibus et magnis dis parturient montes,
-    #   #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
-    #   #   pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-    #   #   enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-    #   #   error sit voluptatem accusantium doloremque laudantium, totam rem
-    #   #   aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-    #   #   architecto beatae vitae dicta sunt explicabo.
-    #   #     - Bullet point
-    #   #     - Bullet point
+    - role: AI Engineer Intern
+      time: May 2021 - Feb 2024
+      company: Quantum Technologies Inc., Waterloo ON
+      # details: |
+      #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #   Cum sociis natoque penatibus et magnis dis parturient montes,
+      #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #   pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      #   enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      #   error sit voluptatem accusantium doloremque laudantium, totam rem
+      #   aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      #   architecto beatae vitae dicta sunt explicabo.
+      #     - Bullet point
+      #     - Bullet point
     - role: PhD Research Intern
       time: May 2021 - Feb 2024
-      company: Auxon Technologies, Portland OR, USA
+      company: Auxon Technologies, Ottawa ON
       # details: |
       #   Describe your role here lorem ipsum dolor sit amet, consectetuer
       #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -116,7 +116,7 @@ experiences:
       #     - Bullet point
     - role: System Safety Research Intern
       time: Jan 2020 - May 2020
-      company: Brane Inc, Ottawa
+      company: Brane Inc, Ottawa ON
       # details: |
       #   Describe your role here lorem ipsum dolor sit amet, consectetuer
       #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -150,10 +150,10 @@ projects:
       
     assignments:
         - title: Runtime Safety Monitoring of Learned Components
-          tagline: "In this project, I developed safety monitors for learned
-                    components, using state-of-the-art DL-based probabilistic
-                    forecasting models. I have also performed extensive empirical evalaution
-                    in terms of prediction accuracy and runtime performance."
+          tagline: "In this project, I developed safety monitors for learned components,
+                    using state-of-the-art DL-based probabilistic forecasting models. I have
+                    also performed extensive empirical evalaution in terms of prediction accuracy
+                    and runtime performance."
         
         - title: Hazard Boundary Identification of ML-enabled Autonomous Systems
           tagline: "In this project we proposed MLCSHE, a cooperative coevolution algorithm
