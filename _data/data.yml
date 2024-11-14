@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Sepehr Sharifi
-    tagline: PhD Researcher
+    tagline: AI Safety Researcher
     location: Nanda Lab, uOttawa
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -62,7 +62,7 @@ career-profile:
       
 education:
     - degree: PhD in Digital Transformation and Innovation
-#               (Focus on ML System Safety Engineering)
+              (Focus on AI System Safety Engineering)
       university: University of Ottawa
       time: 2020 - present
       
@@ -143,14 +143,17 @@ projects:
       Specifically, I am interested in Machine Learning (ML) components and how
       they impact the safety of the system. To that end, I have developed an
       effective and efficient tool to identify the hazard boundary of ML components
-      via scalable parallel simulations. Furthermore, I am developing methods and
+      via scalable parallel simulations. Furthermore, I have developed methods and
       tools to monitor the ML component during its operation at runtime.
-      My research is supported by Auxon Corporation, Mitacs and Ontario Graduate Scholarship.
+      My research is supported by NSERC Canada Research Chairs program,
+      Auxon Corporation, Mitacs and Ontario Graduate Scholarship.
       
     assignments:
         - title: Runtime Safety Monitoring of Learned Components
-          tagline: "This ongoing research focuses on developing safety monitors for learned
-                    components."
+          tagline: "In this project, I developed safety monitors for learned
+                    components, using state-of-the-art DL-based probabilistic
+                    forecasting models. I have also performed extensive empirical evalaution
+                    in terms of prediction accuracy and runtime performance."
         
         - title: Hazard Boundary Identification of ML-enabled Autonomous Systems
           tagline: "In this project we proposed MLCSHE, a cooperative coevolution algorithm
