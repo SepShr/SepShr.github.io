@@ -52,19 +52,23 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a PhD candidate at [Nanda Lab](https://www.nanda-lab.ca/team),
+      I am a recent PhD graduate from [Nanda Lab](https://www.nanda-lab.ca/team),
       University of Ottawa under the supervision of [Prof. Lionel Briand](https://www.lbriand.info/).
       My main research interests include all stages of system engineering for complex AI-enabled systems
       including robots, autonomous vehicles, and cyberphysical systems. This encompasses system design and modeling,
       requirements engineering, quality assurance, testing, validation, and runtime monitoring.
       During my PhD, I have developed novel methods for automated simulation-driven testing and monitoring.
-      These methods leverage a variety of metaheuristics and machine learning techniques, and have been successfully applied to real-world systems in autonomous driving and aviation.
+      These methods leverage a variety of metaheuristics and machine learning techniques,
+      and have been successfully applied to real-world systems in autonomous driving and aviation.
       
 education:
     - degree: PhD in Digital Transformation and Innovation
               (AI System Safety)
       university: University of Ottawa
-      time: 2020 - present
+      time: 2020 - 2024
+      details: |
+                **Thesis:** [Safer Learning-enabled Autonomous Systems](https://doi.org/10.20381/ruor-30808)
+      
       
     - degree: MSc in System Science
       university: University of Ottawa
@@ -183,8 +187,8 @@ publications:
     papers:
       - title: "System Safety Monitoring of Learned Components Using Temporal Metric Forecasting"
         authors: Sepehr Sharifi, Andrea Stocco, Lionel C. Briand
-        link: "https://arxiv.org/abs/2405.13254"
-        conference: "ArXiv Preprints"
+        link: "https://doi.org/10.1145/3712196"
+        conference: "Transactions on Software Engineering and Methodology (forthcoming)"
 
       - title: "Identifying the Hazard Boundary of ML-enabled Autonomous Systems Using Cooperative Co-Evolutionary Search"
         authors: Sepehr Sharifi, Donghwan Shin, Lionel C. Briand, Nathan Aschbacher
